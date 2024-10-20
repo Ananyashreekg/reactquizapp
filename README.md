@@ -1,1 +1,1 @@
-# reactquizapp
+The **React Quiz App** is a simple and interactive web application where users can take quizzes on various topics. It is built using React, allowing the app to smoothly show multiple-choice questions, track scores in real-time, and provide feedback after completing the quiz. The app is designed to be user-friendly and works well on different devices, making it easy to use on both computers and phones. React’s state management helps keep the quiz flow smooth, ensuring an enjoyable experience for users.
